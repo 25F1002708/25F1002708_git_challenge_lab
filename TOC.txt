@@ -1,0 +1,5 @@
+            TABLE OF CONTENTS
+
+1. Random Variables
+    1.a Discrete Random Variables
+    1.b Continuous random Variables
