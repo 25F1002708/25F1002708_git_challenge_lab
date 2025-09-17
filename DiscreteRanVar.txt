@@ -1,0 +1,24 @@
+                            DISCRETE RANDOM Variables
+
+Discrete random variables are random variables that can take at most a countable number of 
+possible values.
+
+A discrete random variable is a variable that can only take on a specific, countable number 
+of distinct values, often whole numbers. These values are typically determined by counting,
+ rather than measuring, and are used to describe outcomes of a random experiment, such as 
+ the number of heads in three coin flips (0, 1, 2, or 3) or the score on a die roll 
+ (1, 2, 3, 4, 5, or 6).  
+
+ Key Characteristics
+Countable Values: The possible outcomes can be listed, even if the list is infinitely long 
+(countably infinite). 
+Distinct Outcomes: Each value is a separate, distinct point, unlike continuous variables 
+which can take on any value within a range. 
+Result of Counting: Discrete variables often arise from counting events, such as the number
+ of customers in a store or the number of defective items in a sample. 
+ 
+Examples 
+The number of children in a family
+The outcome of rolling a die
+The number of heads in a series of coin flips
+The number of library books checked out per hour
