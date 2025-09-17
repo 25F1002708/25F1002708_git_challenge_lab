@@ -1,0 +1,13 @@
+                RANDOM Variables
+
+A random variable is a numerical quantity whose value is determined by the outcome of a 
+random phenomenon or probability experiment. 
+
+It functions as a rule or mapping that assigns a specific real number to each possible 
+result of the experiment.
+
+It ia a real valued function defined on a sample space.
+
+Examples:
+ the When a die is rolled twice, the random variable, X, could be defined as the 
+lesser  of the 2 outcomes. The values that X can take are 1, 2, 3, 4, 5, 6.
